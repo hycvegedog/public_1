@@ -38,14 +38,21 @@ try different markdown usages
 | 单元格 | 单元格 |
 
 
+
 $\eta=\frac{dy}{dx}$
 
 $$
+
 a=
+
 \begin{bmatrix}
+
 1 & 2\\
+
 3 & 4
+
 \end{bmatrix}
+
 $$
 
 
