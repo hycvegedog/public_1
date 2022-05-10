@@ -30,7 +30,7 @@ try different markdown usages
 ```
 请点击[这里](www.baidu.com)
 
-![图片](https://user-images.githubusercontent.com/100572382/167646701-d738c627-c9cc-4044-a78c-8e7a07418dd5.png)
+![](https://user-images.githubusercontent.com/100572382/167646701-d738c627-c9cc-4044-a78c-8e7a07418dd5.png)
 
 | 表头 | 表头 | 
 | ---- | ---- | 
